@@ -1,10 +1,10 @@
 # 💫 About Me:
 ### Hey Folks, I'm Abhishek👦,
-A Full Stack Web developer🎯 and Blockchain enginneer🌈 from India.
+A Full Stack Engineer who enjoy building scalable system🎯
 
-- 👨‍💻 Full Stack MERN and Blockchain Developer
+- 👨‍💻 Full Stack Developer (Node.js, Python and Golang)
 - 📚 Be a jack of all but a master of only a few.
--  🌱 Currently learning DevOps.
+-  🌱 Currently learning more about scalable systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-maheshwari-06a471137) 
